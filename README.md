@@ -1,6 +1,8 @@
 # twitter-searcher
 A tool to search tweets using the Twitter API
 
+# License 
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Mariano Vazquez
